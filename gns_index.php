@@ -221,296 +221,7 @@
 	
 	<!-- Page Wrapper -->
 	<div id="page_wrapper">
-		<!-- Header style 1 -->
-		<header id="header" class="site-header cta_button" data-header-style="1">
-			<!-- Header background -->
-			<div class="kl-header-bg"></div>
-			<!--/ Header background -->
-
-			<!-- Header wrapper -->
-			<div class="site-header-wrapper">
-				<!-- Header Top wrapper -->
-				<div class="site-header-top-wrapper">
-					<!-- Header Top container -->
-					<div class="siteheader-container container">
-						<!-- Header Top -->
-						<div class="site-header-row site-header-top d-flex justify-content-between">
-							<!-- Header Top Left Side -->
-							<div class="site-header-top-left d-flex">
-								<!-- Header Top Social links -->
-								<ul class="topnav social-icons sc--clean align-self-center">
-									<li>
-										<a href="#" target="_self" title="Facebook">
-											<i class="fab fa-facebook-f"></i>
-										</a>
-									</li>
-									<li>
-										<a href="#" target="_self" title="Twitter">
-											<i class="fab fa-twitter"></i>
-										</a>
-									</li>
-									<li>
-										<a href="#" target="_self" title="Dribbble">
-											<i class="fab fa-dribbble"></i>
-										</a>
-									</li>
-									<li>
-										<a href="#" target="_self" title="Google Plus">
-											<i class="fab fa-google-plus-g"></i>
-										</a>
-									</li>
-								</ul>
-								<!--/ Header Top Social links -->
-
-								<div class="clearfix visible-xxs">
-								</div>
-
-								<!-- Top Header contact text -->
-								<div class="kl-header-toptext align-self-center">	
-									<span class="topnav-item--text">HOTLINE: </span>
-									<a href="tel:0900 800 900" class="fw-bold">0900 800 900</a>
-									<i class="phone-header fas fa-phone ml-5 visible-xs visible-sm visible-md"></i>
-								</div>
-								<!--/ Top Header contact text -->
-							</div>
-							<!--/ .site-header-top-left -->
-
-							<!-- Header Top Right Side -->
-							<div class="site-header-top-right d-flex">
-								<!-- Languages -->
-								<div class="topnav topnav--lang align-self-center">
-									<div class="languages drop">
-										<a href="#" class="topnav-item">
-											<span class="fas fa-globe xs-icon"></span>
-											<span class="topnav-item--text">NGÔN NGỮ</span>
-										</a>
-										<div class="pPanel">
-											<ul class="inner">
-												<li class="toplang-item active">
-													<a href="#">
-														<img src="images/en.svg" alt="English" class="toplang-flag "> English
-													</a>
-												</li>
-												<li class="toplang-item">
-													<a href="#">
-														<img src="images/vn.svg" alt="Vietnamese" class="toplang-flag "> Vietnamese
-													</a>
-												</li>
-											</ul>
-										</div>
-									</div>
-								</div>
-								<!--/ Languages -->
-
-								<div class="topnav support--panel align-self-center">
-									<!-- Support panel trigger -->
-									<label for="support_p" class="topnav-item spanel-label">
-										<i class="fas fa-info-circle support-info closed"></i>
-										<i class="far fa-times-circle support-info opened"></i>
-										<span class="topnav-item--text">HỖ TRỢ</span>
-									</label>
-									<!--/ Support panel trigger -->
-								</div>
-
-								<!-- Login trigger -->
-								<div class="topnav login--panel align-self-center">
-									<a class="topnav-item popup-with-form" href="#login_panel">
-										<i class="login-icon fas fa-sign-in-alt visible-xs xs-icon"></i>
-										<span class="topnav-item--text">ĐĂNG NHẬP</span>
-									</a>
-								</div>
-								<!--/ Login trigger -->			
-
-								<!-- header search -->
-								<div id="search" class="header-search align-self-center">
-									<a href="#" class="searchBtn "><span class="fas fa-search white-icon"></span></a>
-									<div class="search-container">
-										<form id="searchform" class="header-searchform" action="https://www.google.com/search" method="get" target="_blank">
-											<input id="q" name="q" maxlength="20" class="inputbox" type="text" size="20" value="TÌM KIẾM ..." onblur="if (this.value=='') this.value='TÌM KIẾM ...';" onfocus="if (this.value=='TÌM KIẾM ...') this.value='';">
-											<button type="submit" id="searchsubmit" class="searchsubmit fas fa-search white-icon"></button>
-										</form>
-									</div>
-								</div>
-								<!--/ header search -->
-							</div>
-							<!--/ .site-header-top-right -->
-						</div>
-						<!--/ .site-header-row .site-header-top -->
-
-						<!-- Header separator -->
-						<div class="separator site-header-separator"></div>
-						<!--/ Header separator -->
-					</div>
-					<!--/ .siteheader-container .container -->
-				</div>
-				<!--/ Header Top wrapper -->
-
-				<!-- Header Main wrapper -->
-				<div class="site-header-main-wrapper d-flex">
-					<!-- Header Main container -->
-					<div class="siteheader-container container align-self-center">
-						<!-- Header Main -->
-						<div class="site-header-row site-header-main d-flex flex-row justify-content-between">
-							<!-- Header Main Left Side -->
-							<div class="site-header-main-left d-flex justify-content-start align-items-center">
-								<!-- Logo container-->
-								<div class="logo-container hasInfoCard-no logosize--yes">
-									<!-- Logo -->
-									<h1 class="site-logo logo" id="logo">
-										<a href="index.html" title="">
-											<img src="images/gns-logo.svg" width="125" style="height: 55px;" class="logo-img" alt="Kallyas" title="Kallyas Gigantic Premium Template" />
-										</a>
-									</h1>
-									<!--/ Logo -->
-
-									<!-- InfoCard -->
-									<div id="infocard" class="logo-infocard">
-										<div class="custom">
-											<div class="row">
-												<div class="col-sm-6 left-side d-flex">
-													<div class="align-self-center">
-														<div class="infocard-wrapper text-center">
-															<img src="images/kallyas_icon.png" class="mb-25" alt="Kallyas" title="Kallyas" />
-															<p>
-																Kallyas is an gigantic ultra-premium, responsive template built for today websites with over <strong>350 elements</strong>.
-															</p>
-														</div>
-														<!--/ infocard-wrapper -->
-													</div>
-													<!--/ .align-self-center -->
-												</div>
-												<!--/ col-sm-6 left-side d-flex -->
-
-												<div class="col-sm-6 right-side">
-													<div class="custom contact-details">
-														<p>
-															Your Company LTD<br>
-															Street nr 100, 4536534, Chicago, US <br>
-															<a href="mailto:sales@yourwebsite.com">sales@yourwebsite.com</a>
-														</p>
-														<a href="http://goo.gl/maps/1OhOu" class="map-link" target="_blank" title="">
-															<span class="fas fa-map-marker-alt white-icon mr-10"></span>
-															<span>Open in Google Maps</span>
-														</a>
-													</div>
-													<div style="height:20px;">
-													</div>
-													<!-- Social links clean style -->
-													<ul class="social-icons sc--clean">
-														<li><a href="#" target="_self" class="fab fa-twitter" title="Twitter"></a></li>
-														<li><a href="#" target="_self" class="fab fa-facebook-f" title="Facebook"></a></li>
-														<li><a href="#" target="_self" class="fab fa-dribbble" title="Dribbble"></a></li>
-														<li><a href="#" target="_blank" class="fab fa-google-plus-g" title="Google Plus"></a></li>
-													</ul>
-													<!--/ Social links clean style -->
-												</div>
-												<!--/ col-sm-6 right-side -->
-											</div>
-											<!--/ row -->
-										</div>
-										<!--/ custom -->
-									</div>
-									<!--/ InfoCard -->
-								</div>
-								<!--/ logo container-->
-
-								<!-- Separator -->
-								<div class="separator visible-xxs"></div>
-								<!--/ Separator -->
-							</div>
-							<!--/ .site-header-main-left -->
-
-							<!-- Header Main Center Side -->
-							<div class="site-header-main-center d-flex justify-content-center align-items-center">
-								<!-- Main Menu wrapper -->
-								<div class="main-menu-wrapper">
-									<!-- Responsive menu trigger -->
-									<div id="zn-res-menuwrapper">
-										<a href="#" class="zn-res-trigger "></a>
-									</div>
-									<!--/ responsive menu trigger -->
-
-									<!-- Main menu -->
-									<div id="main-menu" class="main-nav zn_mega_wrapper">
-										<ul id="menu-main-menu" class="main-menu zn_mega_menu">
-                                            <li class="menu-item-has-children active"><a href="gns_index.php">TRANG CHỦ</a>												
-											</li>
-											<li class="menu-item-has-children"><a href="gns_anoutus.php">VỀ CHÚNG TÔI</a>												
-											</li>
-											<li class="menu-item-has-children"><a href="#">DỊCH VỤ</a>												
-											</li>
-											<li class="menu-item-has-children"><a href="#">LĨNH VỰC HOẠT ĐỘNG</a>
-											</li>
-											<li class="menu-item-has-children"><a href="#">GIỚI THIỆU DỰ ÁN</a>												
-											</li>
-											<li class="menu-item-has-children"><a href="shop-landing-page-default.html">LIÊN HỆ</a>
-											</li>											
-										</ul>
-									</div>
-									<!--/ Main menu -->
-								</div>
-								<!--/ .main-menu-wrapper -->
-							</div>
-							<!--/ .site-header-main-center -->
-
-							<!-- Header Main Right Side -->
-							<div class="site-header-main-right d-flex justify-content-end align-items-center">
-                                <!-- Shopping Cart -->
-								<div class="mainnav mainnav--cart d-flex align-self-center">
-									<div class="drop">
-										<a href="#" class="kl-cart-button" title="View your shopping cart">
-											<i class="fas fa-shopping-basket xs-icon" data-count="1"></i>
-										</a>
-										<div class="pPanel">
-											<div class="inner cart-container">
-												<div class="widget_shopping_cart_content">
-													<ul class="cart_list product_list_widget ">
-														<li>
-														<a href="#" class="remove" title="Remove this item">×</a>
-														<a href="#" class="product-title">
-															<img src="images/img4-90x90.jpg" alt="Hoodie With Patch Logo" title="Hoodie With Patch Logo" />Hoodie With Patch Logo
-														</a>
-														<span class="color-variations">Blue</span>
-														<span class="quantity">1 × <span class="amount">$99.90</span></span></li>
-													</ul>
-													<!-- end product list -->
-													<p class="total">
-														<strong>Subtotal:</strong><span class="amount">$99.90</span>
-													</p>
-													<p class="buttons">
-														<a href="cart.html" class="button wc-forward">View Cart</a>
-														<a href="checkout.html" class="button checkout wc-forward">Checkout</a>
-													</p>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<!--/ Shopping Cart -->
-                                
-								<!-- Call to action ribbon Free Quote (Contact form pop-up element) -->
-								<div class="quote-ribbon">
-									<a href="#contact_panel" id="ctabutton" class="ctabutton kl-cta-ribbon" title="GET A FREE QUOTE" target="_self">
-										<strong>LỜI</strong>NHẮN
-										<svg version="1.1" class="trisvg"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" preserveaspectratio="none" width="14px" height="5px" viewbox="0 0 14 5" enable-background="new 0 0 14 5" xml:space="preserve">
-											<polygon fill-rule="nonzero" points="14 0 7 5 0 0"></polygon>
-										</svg>
-									</a>
-								</div>
-								<!--/ Call to action ribbon Free Quote (Contact form pop-up element) -->
-							</div>
-							<!--/ .site-header-main-right -->
-						</div>
-						<!--/ .site-header-row .site-header-main -->
-					</div>
-					<!--/ .siteheader-container .container -->
-				</div>
-				<!--/ Header Main wrapper -->
-			</div>
-			<!--/ Header wrapper -->
-		</header>
-		<!-- / Header style 1 -->
-		
+		<?php include('gns_header.php'); ?>	
 
 		<!-- Slideshow - iOS Slider element with animateme scroll efect -->
 		<div class="kl-slideshow iosslider-slideshow uh_light_gray iosslider--custom-height scrollme">
@@ -2252,215 +1963,295 @@
 			<!--/ container -->
 		</section>
 		<!--/ Keyword box default style element section with custom paddings -->
-
-
-		<!-- Footer - Default Style 1 -->
-		<footer id="footer" data-footer-style="1">
+		
+		<!-- Title & sub-title section with cusstom paddings -->
+        <section class="hg_section pt-50">
 			<div class="container">
-				<div class="row">
-					<div class="col-sm-12 col-md-5 mb-30">
-						<!-- Title -->
-						<h3 class="title m_title">
-							GLOBAL NATURESOFT
-						</h3>
-
-						<div class="sbs">
-							<ul class="menu">
-								<li><a href="index.html">Trang chủ</a></li>
-								<li><a href="about-us.html">Về chúng tôi</a></li>
-								<li><a href="our-team.html">Dịch vụ</a></li>
-                                <li><a href="our-team.html">Các dự án</a></li>
-								<li><a href="faq.html">F.A.Q</a></li>
-								<li><a href="styles-typography.html">Câu chuyện</a></li>
-								<li><a href="contact-us.html">Liên hệ</a></li>
-							</ul>
-						</div>
-					</div>
-					<!--/ col-sm-12 col-md-5 mb-30 -->
-
-					<div class="col-sm-12 col-md-4 mb-30">
-						<div class="newsletter-signup">
-							<!-- Title -->
-							<h3 class="title m_title">
-								THAM GIA CÙNG CHÚNG TÔI
+				<div class="row">				
+					<div class="col-sm-12 col-md-12">
+						<!-- Title element center aligned with bottom line -->
+						<div class="clearfix text-center tbk-symbol--line tbk-icon-pos--after-title">
+							<!-- Title with alternative font and bold style -->
+							<h3 class="kl-font-alt fw-bold">
+								BAN ĐIỀU HÀNH
 							</h3>
 
-							<p>
-								Đăng ký để nhận những thông tin dịch vụ và chương trình khuyến mãi mới nhất.
-							</p>
-
-							<form action="http://YOUR_USERNAME.DATASERVER.list-manage.com/subscribe/post-json?u=YOUR_API_KEY&amp;id=LIST_ID&c=?" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-								<input type="email" value="" name="EMAIL" class="nl-email form-control" id="mce-EMAIL" placeholder="your.address@email.com" required>
-								<input type="submit" name="subscribe" class="nl-submit" id="mc-embedded-subscribe" value="ĐĂNG KÝ">
-								<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-								<div style="position: absolute; left: -5000px;">
-									<input type="text" name="b_xxxxxxxxxxxxxxxxxxxCUSTOMxxxxxxxxx" value="">
-								</div>
-							</form>	
-
-							<!-- Notification container -->
-							<div id="notification_container"></div>
-
-							<p>
-								Nói không với thư rác!
-							</p>
-						</div><!-- end newsletter-signup -->
-					</div>
-					<!-- col-sm-12 col-md-4 mb-30 -->
-
-					<div class="col-sm-12 col-md-3 mb-30">
-						<!-- Title -->
-						<h3 class="title m_title">
-							LIÊN HỆ
-						</h3>
-
-						<!-- Contact details -->
-						<div class="contact-details">
-							<p>
-								<strong>T (212) 555 55 00</strong><br>
-								Email: <a href="#">support@globalnaturesoft.com</a>
-							</p>
-
-							<p>
-								Global Naturesoft LTD<br>
-								Street nr 100, 4536534, Chicago, US
-							</p>
-
-							<p>
-								<a href="http://goo.gl/maps/1OhOu" target="_blank">
-									<i class="icon-map-marker white-icon"></i>
-									Open in Google Maps
-								</a>
-							</p>
-						</div>
-						<!--/ .contact-details -->
-					</div>
-					<!--/ col-sm-12 col-md-3 mb-30 -->
-				</div>
-				<!--/ row -->
-
-				<div class="row">
-					<div class="col-sm-12 col-md-6">
-						<div class="twitterFeed">				
-							<!-- twitter feeds -->
-							<div class="tweets" id="twitterFeed"><small>Please wait whilst our latest tweets load</small></div>
-							<a href="https://twitter.com/Hogash" class="twitter-follow-button" data-show-count="false">Follow @hogash</a>
-							<!-- twitter script -->
-							<script>
-								! function(d, s, id) {
-									var js, fjs = d.getElementsByTagName(s)[0];
-									if (!d.getElementById(id)) {
-										js = d.createElement(s);
-										js.id = id;
-										js.src = "//platform.twitter.com/widgets.js";
-										fjs.parentNode.insertBefore(js, fjs);
-									}
-								}(document, "script", "twitter-wjs");
-							</script>
-							<!--/ twitter script -->
-						</div>
-						<!--/ twitter-feed -->
-					</div>
-					<!--/ col-sm-12 col-md-6 -->
-
-					<div class="col-sm-12 col-md-6 mb-30">
-						<!-- social-share buttons -->
-						<div class="social-share social-share d-flex justify-content-end">
-							<!-- Facebook button -->
-							<div class="fb-like d-flex align-self-center" data-href="https://www.facebook.com/hogash.themeforest" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
-							<!--/ Facebook button -->
-							<!-- Facebook Script -->
-							<div id="fb-root"></div>
-							<script>
-								(function(d, s, id) {
-									var js, fjs = d.getElementsByTagName(s)[0];
-									if (d.getElementById(id)) return;
-									js = d.createElement(s); js.id = id;
-									js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=1380815252226236";
-									fjs.parentNode.insertBefore(js, fjs);
-								}(document, 'script', 'facebook-jssdk'));
-							</script>
-							<!--/ Facebook Script -->
-
-							<!-- Twitter button -->
-							<div class="twitter-button d-flex align-self-center">
-								<!-- Change data-via to your own. -->
-								<a href="https://twitter.com/share" class="twitter-share-button" data-via="hogash" data-counturl="https://dev.twitter.com/web/tweet-button">Tweet</a>
+							<!-- Title bottom symbol -->
+							<div class="tbk__symbol ">
+								<span></span>
 							</div>
-							<!--/ Twitter button -->
+							<!--/ Title bottom symbol -->
 
-							<!-- Google+ button -->
-							<div class="google-button d-flex align-self-center">
-								<div class="g-follow" data-annotation="bubble" data-height="20" data-href="//plus.google.com/u/0/118411267887632617276" data-rel="author"></div>
-								<script src="https://apis.google.com/js/platform.js" async defer></script>
-							</div>
-							<!--/ Google+ button -->
-
-							<!-- Pinterest button -->
-							<div class="pinterest-button d-flex align-self-center">
-								<a href="https://www.pinterest.com/pin/create/button/" data-pin-do="buttonPin">
-								</a>
-								<script type="text/javascript" async defer src="//assets.pinterest.com/js/pinit.js"></script>
-							</div>
-							<!--/ Pinterest button -->
+							<!-- Sub-title with custom font size -->
+							<h4 class="tbk__subtitle fs-s">
+								Chúng tôi là đội ngũ giàu kinh nghiệm và nhiệt huyết
+							</h4>
 						</div>
-						<!--/ social-share -->
-
-						<div class="payments-links d-flex">
-							<ul class="ml-auto mt-20">
-								<li>
-									<a href="#" class="fab fa-cc-paypal"></a>
-								</li>
-								<li>
-									<a href="#" class="fab fa-cc-visa"></a>
-								</li>
-								<li>
-									<a href="#" class="fab fa-cc-mastercard"></a>
-								</li>
-								<li>
-									<a href="#" class="fab fa-cc-amex"></a>
-								</li>
-							</ul>
-						</div>
+						<!--/ Title element center aligned with bottom line -->		
 					</div>
-					<!--/ col-sm-12 col-md-6 mb-30 -->
-				</div>
-				<!--/ row -->
-
-				<div class="row">
-					<div class="col-sm-12">
-						<div class="bottom clearfix">
-							<!-- social-icons -->
-							<ul class="social-icons sc--clean clearfix">
-								<li class="title">GET SOCIAL</li>
-								<li><a href="#" target="_self" class="fab fa-facebook-f" title="Facebook"></a></li>
-								<li><a href="#" target="_self" class="fab fa-twitter" title="Twitter"></a></li>	
-								<li><a href="#" target="_self" class="fab fa-dribbble" title="Dribbble"></a></li>
-								<li><a href="#" target="_self" class="fab fa-google-plus-g" title="Google Plus"></a></li>
-							</ul>
-							<!--/ social-icons -->
-
-							<!-- copyright -->
-							<div class="copyright">
-								<a href="index.html">
-									<img src="images/gns-footerlogo.svg" style="width: 115px; height: 37px; margin-top: -7px;" alt="Kallyas Demo">
-								</a>
-								
-								<p>
-									© 2018 All rights reserved. Buy <a href="http://themeforest.net/item/kallyas-responsive-multipurpose-template/3583938">Global Naturesoft</a>.
-								</p>
-							</div>
-							<!--/ copyright -->
-						</div>
-						<!--/ bottom -->
-					</div>
-					<!--/ col-sm-12 -->
+					<!--/ col-sm-12 col-md-12 -->
 				</div>
 				<!--/ row -->
 			</div>
 			<!--/ container -->
-		</footer>
-		<!--/ Footer - Default Style 1 -->
+		</section>
+		<!--/ Title & sub-title section with custom paddings -->
+
+		<!-- Team boxes section with custom margins -->
+		<section class="hg_section mb-70">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12 col-md-4 col-lg-3">
+						<!-- Team member -->
+						<div class="team_member">
+							<!-- Image link -->
+							<a href="#" target="_blank" class="grayHover">
+								<!-- Image -->
+								<img src="images/member-04-270x270.jpg" class="img-fluid" alt="Jonathan Jane" title="Jonathan Jane" />
+								<!--/ Image -->
+							</a>
+							<!--/ Image link -->
+
+							<!-- Name -->
+							<h4>
+								Jonathan Jane
+							</h4>
+							<!--/ Name -->
+
+							<!-- Position -->
+							<h6>
+								Creative Director
+							</h6>
+							<!--/ Position -->
+
+							<!-- Details -->
+							<div class="details">
+								<!-- Description -->
+								<div class="desc">
+									<p>
+										The most significant point is that patent and copyright laws support the expansion of the range of creative human activities that can be commodified.
+									</p>
+								</div>
+								<!--/ Description -->
+
+								<!-- Social links -->
+								<ul class="social-icons sc--colored">
+									<li><a href="#" target="_blank" title="Facebook" class="fab fa-facebook-f"></a></li>
+									<li><a href="#" target="_blank" title="Twitter" class="fab fa-twitter"></a></li>
+									<li><a href="#" target="_blank" title="Google Plus" class="fab fa-google-plus-g"></a></li>
+									<li><a href="#" target="_blank" title="LinkedIn" class="fab fa-linkedin"></a></li>
+								</ul>
+								<!--/ Social links -->
+							</div>
+							<!--/ Details -->
+						</div>
+						<!--/ Team member -->
+					</div>
+					<!--/ col-sm-12 col-md-4 col-lg-3 -->
+
+					<div class="col-sm-12 col-md-4 col-lg-3">
+						<!-- Team member -->
+						<div class="team_member">
+							<!-- Image link -->
+							<a href="#" target="_blank" class="grayHover">
+								<!-- Image -->
+								<img src="images/member-05-270x270.jpg" class="img-fluid" alt="Arthur Bertrand" title="Arthur Bertrand" />
+								<!--/ Image -->
+							</a>
+							<!--/ Image link -->
+
+							<!-- Name -->
+							<h4>
+								Arthur Bertrand
+							</h4>
+							<!--/ Name -->
+
+							<!-- Position -->
+							<h6>
+								Project Manager
+							</h6>
+							<!--/ Position -->
+
+							<!-- Details -->
+							<div class="details">
+								<!-- Description -->
+								<div class="desc">
+									<p>
+										The most significant point is that patent and copyright laws support the expansion of the range of creative human activities that can be commodified.
+									</p>
+								</div>
+								<!--/ Description -->
+
+								<!-- Social links -->
+								<ul class="social-icons sc--colored">
+									<li><a href="#" target="_blank" title="Facebook" class="fab fa-facebook-f"></a></li>
+									<li><a href="#" target="_blank" title="Twitter" class="fab fa-twitter"></a></li>
+									<li><a href="#" target="_blank" title="Google Plus" class="fab fa-google-plus-g"></a></li>
+									<li><a href="#" target="_blank" title="LinkedIn" class="fab fa-linkedin"></a></li>
+								</ul>
+								<!--/ Social links -->
+							</div>
+							<!--/ Details -->
+						</div>
+						<!--/ Team member -->
+					</div>
+					<!--/ col-sm-12 col-md-4 col-lg-3 -->
+
+					<div class="col-sm-12 col-md-4 col-lg-3">
+						<!-- Team member -->
+						<div class="team_member">
+							<!-- Image link -->
+							<a href="#" target="_blank" class="grayHover">
+								<!-- Image -->
+								<img src="images/member-06-270x270.jpg" class="img-fluid" alt="Kelly Lewis" title="Kelly Lewis" />
+								<!--/ Image -->
+							</a>
+							<!--/ Image link -->
+
+							<!-- Name -->
+							<h4>
+								Kelly Lewis
+							</h4>
+							<!--/ Name -->
+
+							<!-- Position -->
+							<h6>
+								Managing Director
+							</h6>
+							<!--/ Position -->
+
+							<!-- Details -->
+							<div class="details">
+								<!-- Description -->
+								<div class="desc">
+									<p>
+										The most significant point is that patent and copyright laws support the expansion of the range of creative human activities that can be commodified.
+									</p>
+								</div>
+								<!--/ Description -->
+
+								<!-- Social links -->
+								<ul class="social-icons sc--colored">
+									<li><a href="#" target="_blank" title="Facebook" class="fab fa-facebook-f"></a></li>
+									<li><a href="#" target="_blank" title="Twitter" class="fab fa-twitter"></a></li>
+									<li><a href="#" target="_blank" title="Google Plus" class="fab fa-google-plus-g"></a></li>
+									<li><a href="#" target="_blank" title="LinkedIn" class="fab fa-linkedin"></a></li>
+								</ul>
+								<!--/ Social links -->
+							</div>
+							<!--/ Details -->
+						</div>
+						<!--/ Team member -->
+					</div>
+					<!--/ col-sm-12 col-md-4 col-lg-3 -->
+
+					<div class="col-sm-12 col-md-4 col-lg-3">
+						<!-- Team member -->
+						<div class="team_member">
+							<!-- Image link -->
+							<a href="#" target="_blank" class="grayHover">
+								<!-- Image -->
+								<img src="images/member-07-270x270.jpg" class="img-fluid" alt="James Clayton" title="James Clayton" />
+								<!--/ Image -->
+							</a>
+							<!--/ Image link -->
+
+							<!-- Name -->
+							<h4>
+								James Clayton
+							</h4>
+							<!--/ Name -->
+
+							<!-- Position -->
+							<h6>
+								Sales Representative
+							</h6>
+							<!--/ Position -->
+
+							<!-- Details -->
+							<div class="details">
+								<!-- Description -->
+								<div class="desc">
+									<p>
+										The most significant point is that patent and copyright laws support the expansion of the range of creative human activities that can be commodified.
+									</p>
+								</div>
+								<!--/ Description -->
+
+								<!-- Social links -->
+								<ul class="social-icons sc--colored">
+									<li><a href="#" target="_blank" title="Facebook" class="fab fa-facebook-f"></a></li>
+									<li><a href="#" target="_blank" title="Twitter" class="fab fa-twitter"></a></li>
+									<li><a href="#" target="_blank" title="Google Plus" class="fab fa-google-plus-g"></a></li>
+									<li><a href="#" target="_blank" title="LinkedIn" class="fab fa-linkedin"></a></li>
+								</ul>
+								<!--/ Social links -->
+							</div>
+							<!--/ Details -->
+						</div>
+						<!--/ Team member -->
+					</div>
+					<!--/ col-sm-12 col-md-4 col-lg-3 -->
+				</div>
+				<!--/ row -->
+			</div>
+			<!--/ container -->
+		</section>
+		<!--/ Team boxes section with custom margins -->
+
+		<!-- Google map element full width style - section with custom paddings -->
+		<section class="hg_section bg-white pt-80 pb-0">
+			<div class="full-width">
+				<div class="row">
+					<div class="col-sm-12 col-md-12">						
+						<!-- Google map element with custom height -->
+						<div class="kl-slideshow static-content__slideshow scontent__maps">
+							<!-- Google map wrapper -->
+							<div class="th-google_map" style="height: 750px;">
+							</div>
+							<!--/ Google map wrapper -->
+
+							<!-- Map slide info panel -->
+							<div class="kl-contentmaps__panel">
+								<!-- Toggle close button -->
+								<a href="#" class="js-toggle-class kl-contentmaps__panel-tgg hidden-xs" data-target=".kl-contentmaps__panel" data-target-class="is-closed"></a>
+								<!--/ Toggle close button -->
+
+								<!-- Image & image pop-up -->
+								<a href="images/home-office-569359_640.jpg" data-lightbox="image" class="kl-contentmaps__panel-img" style="background-image: url(images/home-office-569359_640.jpg);"></a>
+								<!--/ Image & image pop-up -->
+
+								<!-- Slide info panel content wrapper -->
+								<div class="kl-contentmaps__panel-info">
+									<!-- Title -->
+									<h5 class="kl-contentmaps__panel-title">
+										Global Naturesoft
+									</h5>
+									<!--/ Title -->
+
+									<!-- Content -->
+									<div class="kl-contentmaps__panel-info-text">
+										<p>
+											188 Đường số 1, Phường 16, Quận Gò Vấp, Thành phố Hồ Chí Minh.
+										</p>
+									</div>
+									<!--/ Content -->
+								</div>
+								<!--/ Slide info panel content wrapper -->
+							</div>
+							<!--/ Map slide info panel -->
+						</div>
+						<!--/ Google map element with custom height -->
+					</div>
+					<!--/ col-sm-12 col-md-12 -->
+				</div>
+				<!--/ row -->
+			</div>
+			<!--/ full-width -->
+		</section>
+		<!-- Google map element full width style - section with custom paddings -->
+		
+		<?php include('gns_footer.php'); ?>
 	</div>
 	<!--/ Page Wrapper -->
 
@@ -2678,6 +2469,15 @@
 	<!-- JS FILES // These should be loaded in every page -->
 	<script type="text/javascript" src="js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="js/kl-plugins.js"></script>
+	
+	<!-- JS FILES // Loaded on this page -->
+	<!-- Required js scripts files for Google Maps element (create and use your API Key bellow) https://developers.google.com/maps/documentation/javascript/get-api-key -->
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBujjMVHPFsgkbAywBtSYbFR-JIMkBNGL0"></script>
+	<script type="text/javascript" src="js/plugins/jquery.gmap.min.js"></script>
+
+	<!-- Requried js trigger for Google Maps element -->
+	<script type="text/javascript" src="js/trigger/kl-google-maps-style2.js"></script>
+
 
 	<!-- JS FILES // Loaded on this page -->
 	<!-- Required js script for iOS slider -->
