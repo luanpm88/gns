@@ -87,16 +87,7 @@
 										<span class="topnav-item--text">HỖ TRỢ</span>
 									</label>
 									<!--/ Support panel trigger -->
-								</div>
-
-								<!-- Login trigger -->
-								<div class="topnav login--panel align-self-center">
-									<a class="topnav-item popup-with-form" href="#login_panel">
-										<i class="login-icon fas fa-sign-in-alt visible-xs xs-icon"></i>
-										<span class="topnav-item--text">ĐĂNG NHẬP</span>
-									</a>
-								</div>
-								<!--/ Login trigger -->			
+								</div>	
 
 								<!-- header search -->
 								<div id="search" class="header-search align-self-center">
@@ -220,7 +211,7 @@
 											</li>
 											<li class="menu-item-has-children"><a href="#">GIỚI THIỆU DỰ ÁN</a>												
 											</li>
-											<li class="menu-item-has-children"><a href="shop-landing-page-default.html">LIÊN HỆ</a>
+											<li class="menu-item-has-children"><a href="gns_contact.php">LIÊN HỆ</a>
 											</li>											
 										</ul>
 									</div>
@@ -232,38 +223,6 @@
 
 							<!-- Header Main Right Side -->
 							<div class="site-header-main-right d-flex justify-content-end align-items-center">
-                                <!-- Shopping Cart -->
-								<div class="mainnav mainnav--cart d-flex align-self-center">
-									<div class="drop">
-										<a href="#" class="kl-cart-button" title="View your shopping cart">
-											<i class="fas fa-shopping-basket xs-icon" data-count="1"></i>
-										</a>
-										<div class="pPanel">
-											<div class="inner cart-container">
-												<div class="widget_shopping_cart_content">
-													<ul class="cart_list product_list_widget ">
-														<li>
-														<a href="#" class="remove" title="Remove this item">×</a>
-														<a href="#" class="product-title">
-															<img src="images/img4-90x90.jpg" alt="Hoodie With Patch Logo" title="Hoodie With Patch Logo" />Hoodie With Patch Logo
-														</a>
-														<span class="color-variations">Blue</span>
-														<span class="quantity">1 × <span class="amount">$99.90</span></span></li>
-													</ul>
-													<!-- end product list -->
-													<p class="total">
-														<strong>Subtotal:</strong><span class="amount">$99.90</span>
-													</p>
-													<p class="buttons">
-														<a href="cart.html" class="button wc-forward">View Cart</a>
-														<a href="checkout.html" class="button checkout wc-forward">Checkout</a>
-													</p>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<!--/ Shopping Cart -->
                                 
 								<!-- Call to action ribbon Free Quote (Contact form pop-up element) -->
 								<div class="quote-ribbon">

@@ -353,7 +353,7 @@
 							<div class="row">
 								<!-- Start timeline -->
 								<div class="col-sm-12 end_timeline">
-									<span>2000 › ESTABLISHMENT</span>
+									<span>GLOBAL NATURESOFT</span>
 								</div>
 								<!--/ Start timeline -->
 
@@ -363,19 +363,20 @@
 									<div class="timeline_box">
 										<!-- Date -->
 										<div class="date">
-											2001
+											2008
 										</div>
 										<!--/ Date -->
 
 										<!-- Title -->
 										<h4 class="htitle">
-											The beginning of the road
+											THÀNH LẬP CÔNG TY											
 										</h4>
 										<!--/ Title -->
 
 										<!-- Content -->
 										<p>
-											John Smith decides not to follow law studies and to dedicate himself to learning all the technics and the dexterity of highly-skilled designers.
+											Thành lập công ty, gồm 4 thành viên sáng lập và đội ngũ kỹ thuật viên máy tính, hoạt động kinh doanh chủ yếu cung cấp linh kiện máy tính và lắp ráp máy desktop, cung cấp thiết bị in văn phòng và dịch vụ kỹ thuật tin học.
+											Định hướng hoạt động CNTT chuyên sâu kỹ thuật về giải pháp hạ tầng mạng máy tính.
 										</p>
 										<!--/ Content -->
 									</div>
@@ -389,19 +390,20 @@
 									<div class="timeline_box">
 										<!-- Date -->
 										<div class="date">
-											2003
+											2010
 										</div>
 										<!--/ Date -->
 
 										<!-- Title -->
 										<h4 class="htitle">
-											Got our first award
+											Những bước nhấn đầu tiên
 										</h4>
 										<!--/ Title -->
 
 										<!-- Content -->
 										<p>
-											John Smith opens a design agency, his own fur creation atelier in Balcan. He starts designing a line of edgy fashion templates opening a new niche for website creations industry.
+											Nhận gói thầu tư vấn thiết kế triển khai hạng mục “Hệ thống công nghệ thông tin” công trình Bệnh viện răng hàm mặt TW TP.HCM.
+											Định hướng thị phần khách hàng khối doanh nghiệp FDI và doanh nghiệp Việt có thương hiệu.
 										</p>
 										<!-- Content -->
 									</div>
@@ -415,19 +417,19 @@
 									<div class="timeline_box">
 										<!-- Date -->
 										<div class="date">
-											2007
+											2012
 										</div>
 										<!--/ Date -->
 
 										<!-- Title -->
 										<h4 class="htitle">
-											Merged with another company
+											Thành lập bộ phận phát triển phần mềm
 										</h4>
 										<!--/ Title -->
 
 										<!-- Content -->
 										<p>
-											John Smith and his friend decide to lead forward design agency knowhow and talent and to create a themes and templates brand to be shared and transmitted to their 6 daughters and sons with pride, continuing the rich heritage and legacy passed on from one generation to the next.
+											Phòng phần mềm thành lập 02/2012, hoạt động kinh doanh về thiết kế website trên mã nguồn mở PHP, cung cấp dịch vụ domain, hosting. Đầu tư bồi dưỡng chuyên môn nhân sự phần mềm.
 										</p>
 										<!--/ Content -->
 									</div>
@@ -441,29 +443,115 @@
 									<div class="timeline_box">
 										<!-- Date -->
 										<div class="date">
-											2018
+											2014
 										</div>
 										<!--/ Date -->
 
 										<!-- Title -->
 										<h4 class="htitle">
-											A very succsessful company
+											Phát triển năng lực
 										</h4>
 										<!--/ Title -->
 
 										<!-- Content -->
 										<p>
-											The brand is created, the passion, incredible vision and determination of family enthusiastically seized by a new generation, continuing the innovative traditions started more than 15 years ago.
+											phát triển khách hàng và đầu tư bồi dưỡng chuyên môn nhân sự phần mềm. Định hướng thị trường phần mềm quản lý.
+											Phát triển hệ thống phần mềm quản lý kho và nghiệp quản lý hoạt động nội Công ty Hoàng Khang.
+											Tìm chọn ngôn ngữ mã nguồn mở mới thay thế PHP, công cụ phù hợp cho sự phát triển phần mềm quản lý ứng dụng trên nền web vào xu hướng tích hợp tương lai.
 										</p>
 										<!--/ Content -->
 									</div>
 									<!--/ Timeline box -->
 								</div>
 								<!--/ Timeline box 4 -->
+								
+								<!-- Timeline box 5 -->
+								<div class="col-sm-12 col-md-6 offset-md-6" data-align="right">
+									<!-- Timeline box -->
+									<div class="timeline_box">
+										<!-- Date -->
+										<div class="date">
+											2016
+										</div>
+										<!--/ Date -->
+
+										<!-- Title -->
+										<h4 class="htitle">
+											Định hướng & Hoàn thiện nền tảng
+										</h4>
+										<!--/ Title -->
+
+										<!-- Content -->
+										<p>
+											Phát triển khách hàng thị trường phần mềm quản lý, định hướng xây dựng hệ sinh thái độc lập trên ngôn ngữ Ruby On Rails,
+											phát triển hệ sinh thái gồm core chính và nhiều module chức năng, tùy biến trong việc tích hợp
+											hoặc loại bỏ theo nhu cầu sử dụng chức năng.
+										</p>
+										<!--/ Content -->
+									</div>
+									<!--/ Timeline box -->
+								</div>
+								<!--/ Timeline box 5 -->
+								
+								<!-- Timeline box 6 -->
+								<div class="col-sm-12 col-md-6">
+									<!-- Timeline box -->
+									<div class="timeline_box">
+										<!-- Date -->
+										<div class="date">
+											2016
+										</div>
+										<!--/ Date -->
+
+										<!-- Title -->
+										<h4 class="htitle">
+											Định hướng & Hoàn thiện nền tảng
+										</h4>
+										<!--/ Title -->
+
+										<!-- Content -->
+										<p>
+											Phát triển khách hàng thị trường phần mềm quản lý, định hướng xây dựng hệ sinh thái độc lập trên ngôn ngữ Ruby On Rails,
+											phát triển hệ sinh thái gồm core chính và nhiều module chức năng, tùy biến trong việc tích hợp
+											hoặc loại bỏ theo nhu cầu sử dụng chức năng.
+										</p>
+										<!--/ Content -->
+									</div>
+									<!--/ Timeline box -->
+								</div>
+								<!--/ Timeline box 6 -->
+								
+								<!-- Timeline box 7 -->
+								<div class="col-sm-12 col-md-6 offset-md-6" data-align="right">
+									<!-- Timeline box -->
+									<div class="timeline_box">
+										<!-- Date -->
+										<div class="date">
+											2018
+										</div>
+										<!--/ Date -->
+
+										<!-- Title -->
+										<h4 class="htitle">
+											Áp dụng & Mở rộng thị trường
+										</h4>
+										<!--/ Title -->
+
+										<!-- Content -->
+										<p>
+											Phát triển khách hàng thị trường phần mềm quản lý, hợp tác chuyên môn với các chuyên gia thuộc nhiều lĩnh vực chuyên
+											ngành quản trị, tiêu chuẩn hệ thống trong quản lý, tài chính,… đáp ứng nhu cầu khách hàng trong
+											việc tin học hóa hoạt động kinh doanh của mình.
+										</p>
+										<!--/ Content -->
+									</div>
+									<!--/ Timeline box -->
+								</div>
+								<!--/ Timeline box 7 -->
 
 								<!-- End timeline -->
 								<div class="col-sm-12 end_timeline">
-									<span>PRESENT</span>
+									<span>HIỆN TẠI</span>
 								</div>
 								<!--/ End timeline -->
 							</div>
@@ -494,20 +582,23 @@
 
 								<!-- Author -->
 								<h6>
-									<strong>Tuan</strong>Thai Hoang.
+									<strong>Tuan</strong>Thai Hoang Minh.
+									<div style="margin-top: 10px;">CEO, Founder</div>
 								</h6>
 							</div>
 							<!-- Details -->
 
 							<!-- Quote with custom background color -->
 							<blockquote style="background: #ffffff;">
-								After 4 years established from only 9 members, EVOLABLE ASIA has reached over 800 colors until now. Hopefully, we will reach 10,000 colors in 2020.
-In the process of working with Vietnam IT environment, I believe you are qualified engineers with good technique. Therefore, I want to create EVA Town - an environment which you can maximize your potential capacity and performance - is my wish for the future.
-Typically, in the foreign investment company, the career advancement of Vietnamese may be limited to a certain extent. But in our company is completely different, in fact, one member of the Board of Director is Vietnamese. We bring staffs equal opportunities to try and promote all possibilities and abilities.
-EVA Town will be a place where you can have professionally working environment and fully equipped. At EVA Town, you will have the opportunity to work with engineers from many other nationalities.
-Currently, we only focus on providing services to the Japanese market, but I believe in your technical capacity and inquisitive spirit, we have the ability to reach out to further international markets.
-In October 2016, we cooperate with Venture Capital Fenox Investment at Silicon Valley - to expand EVA brand to US market. This is the first step for the future development of the GLOBAL EVOLABLE ASIA. I love Vietnam. I love Vietnamese people.
-I want to go together with you, achieve the dream of growing Vietnam IT industry to further development - at EVOLABLE ASIA.
+								<p style="font-weight: 600">Kính chào Quý Bạn xa gần thân hữu,</p>
+								<p>Cuộc sống vốn dĩ tĩnh lặng, ôn ào, cuồng nhiệt và lôi cuốn mỗi con người theo nhiều cách khác nhau. Nó phản chiếu nhu cầu đa sắc thái của con người qua mọi thời đại. Và đó cũng là “điểm tương đồng” của vạn vật tồn tại trong một thế giới ở vũ trụ bao la – “hành trình tìm hạnh phúc, bình an và an lạc trong cuộc sống”. Tôi cũng không ngoại lệ, tôi chọn “điểm tương đồng” là cách sống của mình và là đường lối trong hoạt động kinh doanh.</p>
+<p>10 năm thành lập công ty, tôi luôn quan tâm giá trị nguồn nhân lực là giá trị cốt lõi cho sự phát triển hoạt động kinh doanh của công ty. Là một doanh nghiệp nhỏ còn nhiều hạn chế về điều kiện cho phép, nên tôi chọn đường lối đầu tư nguồn nhân lực với chất lượng cao bằng cách đào tạo năng lực chuyên môn cho nhân sự tại doanh nghiệp của mình. Do đó, tôi kiên định mục tiêu kiến tạo một công ty đeo đuổi niềm hạnh phúc của toàn bộ nhân viên, đối tác và khách hàng. Nơi có môi trường làm việc tự chủ vì hạnh phúc bản thân, vì hạnh phúc của doanh nghiệp và xa hơn nữa là hạnh phúc cộng đồng đa sắc tộc đam mê lĩnh vực công nghệ.</p>
+<p>Tại doanh nghiệp chúng tôi, mỗi nhân viên phát triển tài năng và thăng tiến sự nghiệp đều dựa trên năng lực bản thân, nên cơ hội của tất là như nhau, không có sự phân biệt bởi bất kỳ lý do nào.</p>
+<p>Hiện tại, với nhân sự khiêm tốn nhưng chúng tôi đã làm được những việc như những doanh nghiệp có quy mô lớn hơn chúng tôi gấp 2-3 lần. Những yêu cầu chất lượng, công việc luôn được chúng tôi hoàn thành theo cam kết chuẩn xác.</p>
+<p>Trong tương lai, tôi mong muốn duy trì đường lối ‘điểm tương đồng’ tiếp tục là nền tảng ổn định cho sự phát triển hoạt động kinh doanh và là môi trường làm việc nhân sinh quan thân thiện của nguồn lao động chất lượng cao, của đối tác và khách hàng.</p>
+<p>Sau cùng, đường lối quản trị của tôi không phải là điều mới mẻ mà là tôi cố gắng học hỏi rất nhiều và kiên trì thực hiện bằng năng lực tập thể doanh nghiệp có chung tầm vươn cao nhất. Tôi luôn hiểu ‘may mắn sẽ đến khi bạn kiên trì nỗ lực đúng’ đó là giá trị tôi nghiệm được từ các bậc Vĩ Nhân.</p>
+<p>Xin chúc Quý Bạn nhiều sức khỏe, vươn tới giá trị nhân sinh quan ý nghĩa nhất mà mỗi người chọn cho mình trong cuộc đời. 
+
 							</blockquote>
 							<!--/ Quote with custom background color -->
 						</div>
