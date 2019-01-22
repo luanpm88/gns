@@ -314,9 +314,7 @@
 							<!--/ Title bottom symbol -->
 							
 							<!-- Sub-title with custom font size and thin style -->
-							<h4 class="tbk__subtitle fs-xl fw-thin">
-								Phần mềm được xây dựng trên nhu cầu & nghiệp vụ thực tế
-							</h4>
+							
 						</div>
 						<!--/ Title element with bottom line symbol -->
 					</div>
@@ -325,15 +323,17 @@
 					<div class="col-sm-12 col-md-12">
 						<!-- Text box -->
 						<div class="text_box">
-							<!-- Description -->
-							<p>
-								Among many reasons, what makes Kallyas so special is the large number of built-in features and integrations, along premium powerful plugins. You be the creative, while we're going to ensure a proper infrastructure for your website, all live in the frontend of your website.
-							</p>
+<p>Trong từng lĩnh vực hoạt động kinh doanh, nhiều lãnh đạo doanh nghiệp SME luôn tìm kiếm và trang bị cho doanh nghiệp mình những công cụ quản lý phù hợp với mong muốn giúp doanh nghiệp hoạt động hiệu quả gia tăng. Bằng nhiều hình thức như đào tạo năng lực làm việc đội ngũ nhân viên, đầu tư công nghệ quản lý hệ thống công việc,… do đó việc tìm kiếm và chọn đối tác triển khai phù hợp với khả năng và nhu cầu thì không phải doanh nghiệp nào cũng đạt được mức độ thành công như kỳ vọng.</p>
+<h4 class="tbk__subtitle fs-xl fw-thin" style="margin-top: 50px;">
+	Cần có khả năng lãnh đạo thực sự đúng đắn để đạt mức độ thành công hiệu quả gia tăng
+</h4>
+<p>Tại các doanh nghiệp SME có mức phát triển thành công kỳ vọng thường có hiện diện các nhà lãnh đạo giỏi, người có khả năng quy tụ tập thể nhân viên không những giỏi chuyên môn mà còn phải cảm nhận được mức độ ảnh hưởng của nhà lãnh đạo ở khả năng tầm nhìn, khả năng triển khai cũng như các nguyên tắc lãnh đạo phải có. Mức độ ảnh hưởng của các nhà lãnh đạo giỏi không chỉ tác động trong nội bộ doanh nghiệp mà nó còn tác động đến mối quan hệ liên kết ngoài doanh nghiệp trong việc chọn người tài và đối tác tín nhiệm hợp tác cho việc khởi sự.</p>
+<p>Một nhà nghệ thuật lãnh đạo giỏi sẽ có tầm nhìn đúng trong việc lựa chọn đối tác đúng cho việc hợp tác khởi sự. Nên những doanh nghiệp sở hữu lãnh đạo giỏi chắc chắn sẽ có cơ hội phát triển doanh nghiệp bằng con đường quản trị tiên tiến phù hợp theo định hướng và xu thế. Tại khối doanh nghiệp SME dù mới hoạt động hay đã hoạt động lâu năm trong nhiều lĩnh vực thì vẫn tồn tại nhiều trạng thái hoạt động khác nhau, tuy nhiên nếu là hoạt động thành công thì cũng cần phải xét đến mức độ thành công hiệu quả gia tăng như thế nào.</p>
+<h4 class="tbk__subtitle fs-xl fw-thin" style="margin-top: 50px;">
+	Những ai cần chúng tôi phục vụ?
+</h4>
+<p>Chúng tôi phục vụ khối doanh nghiệp SME là những khách hàng mới thành lập hoặc lâu năm hoạt động trong nhiều lĩnh vực khác nhau. Các bạn đang gặp khó khăn chọn loại hình đầu tư hệ thống phần mềm quản lý doanh nghiệp như thế nào là phù hợp, những doanh nghiệp có nhu cầu phát triển hệ thống phần mềm quản lý cho từng phần phân hệ theo kế hoạch. Chúng tôi sẵn sàng chia sẽ thông tin và hợp tác chuyên môn của mình với các bạn với trách nhiệm là một đối tác tín nhiệm cho việc khởi sự.</p>
 
-							<p>
-								Building a website has never been so easy and comfortable.
-							</p>
-							<!--/ Description -->
 						</div>
 						<!--/ Text box -->
 					</div>
@@ -365,7 +365,7 @@
 
 							<!-- Sub-title with custom font size and thin style -->
 							<h4 class="tbk__subtitle fs-xl fw-thin">
-								This section should serve as a quick way to explain how softwares are developed.
+								...
 							</h4>
 						</div>
 						<!--/ Title element with bottom line symbol -->
@@ -375,15 +375,13 @@
 					<div class="col-sm-12 col-md-12">
 						<!-- Text box -->
 						<div class="text_box">
-							<!-- Description -->
-							<p>
-								Among many reasons, what makes Kallyas so special is the large number of built-in features and integrations, along premium powerful plugins. You be the creative, while we're going to ensure a proper infrastructure for your website, all live in the frontend of your website.
-							</p>
+							<p>Tiếp nhận thông tin yêu cầu</p>
+							<p>Khảo sát yêu cầu: thực tế</p>
+							<p>Gửi demo chuẩn hóa nghiệp vụ theo yêu cầu</p>
+							<p>Khách hàng hiệu chỉnh demo</p>
+							<p>Sản xuất phần mềm</p>
+							<p>Bảo hành bảo trì</p>
 
-							<p>
-								Building a website has never been so easy and comfortable.
-							</p>
-							<!--/ Description -->
 						</div>
 						<!--/ Text box -->
 					</div>
@@ -404,7 +402,9 @@
 						<div class="kl-title-block tbk--left tbk-symbol--line tbk-icon-pos--after-title">
 							<!-- Title with bottom line, custom font size and black color -->
 							<h2 class="tbk__title fs-xxl black">
-								<strong>KHÔNG GIỚI HẠN NGÀNH NGHỀ & QUY MÔ</strong>
+								<strong style="text-transform: uppercase">
+									Làm sao phương pháp sản xuất có thể phù hợp với các các lĩnh vực ngành nghề khác nhau
+								</strong>
 							</h2>
 
 							<!-- Title bottom symbol -->
@@ -412,10 +412,10 @@
 								<span></span>
 							</div>
 							<!--/ Title bottom symbol -->
-
+							
 							<!-- Sub-title with custom font size and thin style -->
 							<h4 class="tbk__subtitle fs-xl fw-thin">
-								Làm sao phương pháp sản xuất có thể phù hợp với các lĩnh vực ngành nghể khác nhau
+								Bạn đang quan tâm đến phương pháp sản xuất phát phần mềm có phù hợp và đáp ứng nhu cầu ngành nghề kinh doanh của mình ?
 							</h4>
 						</div>
 						<!--/ Title element with bottom line symbol -->
@@ -425,15 +425,16 @@
 					<div class="col-sm-12 col-md-12">
 						<!-- Text box -->
 						<div class="text_box">
-							<!-- Description -->
-							<p>
-								Among many reasons, what makes Kallyas so special is the large number of built-in features and integrations, along premium powerful plugins. You be the creative, while we're going to ensure a proper infrastructure for your website, all live in the frontend of your website.
-							</p>
 
-							<p>
-								Building a website has never been so easy and comfortable.
-							</p>
-							<!--/ Description -->
+<p>Phối hợp với người phụ trách quản lý quy trình hoạt động doanh nghiệp</p>
+<p>Phối hợp chuyên gia về quản lý đánh giá kiểm tra hệ thống (nếu cần)</p>
+<p>Đánh giá tiêu chuẩn các quy trình hiện tại logic theo thực tế và quy định tiêu chuẩn quản lý tương đương quốc tế</p>
+<p>Sẵn sàng thay đổi áp dụng công nghệ tin học thay đổi cách thức làm việc kiểu cũ</p>
+<p>Đánh giá tính khả thi và theo dõi hiệu suất làm việc sau khi áp dụng công nghệ tin học</p>
+<p>Cải tiến cập nhật sự thay đổi theo định hướng</p>
+
+<p>Dùng các phương pháp công cụ thầy facebook</p>
+
 						</div>
 						<!--/ Text box -->
 					</div>
@@ -454,7 +455,7 @@
 						<div class="kl-title-block tbk--left tbk-symbol--line tbk-icon-pos--after-title">
 							<!-- Title with bottom line, custom font size and black color -->
 							<h2 class="tbk__title fs-xxl black">
-								<strong>CHUẨN NGHIỆP VỤ QUAN TRỌNG NHƯ THẾ NÀO?</strong>
+								<strong style="text-transform: uppercase">Tại sao phần mềm cần phải đạt được chuẩn nghiệp vụ</strong>
 							</h2>
 
 							<!-- Title bottom symbol -->
@@ -465,7 +466,7 @@
 
 							<!-- Sub-title with custom font size and thin style -->
 							<h4 class="tbk__subtitle fs-xl fw-thin">
-								Tại sao phần mềm cần phải đạt được chuẩn nghiệp vụ
+								Mối quan hệ tương hỗ giữa công cụ phần mềm quản lý và nghiệp vụ quản lý tiêu chuẩn
 							</h4>
 						</div>
 						<!--/ Title element with bottom line symbol -->
@@ -475,15 +476,51 @@
 					<div class="col-sm-12 col-md-12">
 						<!-- Text box -->
 						<div class="text_box">
-							<!-- Description -->
-							<p>
-								Among many reasons, what makes Kallyas so special is the large number of built-in features and integrations, along premium powerful plugins. You be the creative, while we're going to ensure a proper infrastructure for your website, all live in the frontend of your website.
-							</p>
+							
+						</div>
+						<!--/ Text box -->
+					</div>
+					<!--/ col-sm-12 col-md-12 -->
+				</div>
+				<!--/ row -->
+			</div>
+			<!--/ container -->
+		</section>
+		<!--/ Title, sub-title & description section with custom paddings -->
+		
+		<!-- Title, sub-title & description section with custom paddings -->
+		<section class="hg_section pt-80">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12 col-md-12">
+						<!-- Title element with bottom line symbol -->
+						<div class="kl-title-block tbk--left tbk-symbol--line tbk-icon-pos--after-title">
+							<!-- Title with bottom line, custom font size and black color -->
+							<h2 class="tbk__title fs-xxl black">
+								<strong style="text-transform: uppercase">
+									Mở rộng phần mềm linh hoạt và liên tục theo nhu cầu phát triển
+								</strong>
+							</h2>
 
-							<p>
-								Building a website has never been so easy and comfortable.
-							</p>
-							<!--/ Description -->
+							<!-- Title bottom symbol -->
+							<div class="tbk__symbol">
+								<span></span>
+							</div>
+							<!--/ Title bottom symbol -->
+
+							<!-- Sub-title with custom font size and thin style -->
+							<h4 class="tbk__subtitle fs-xl fw-thin">
+								...
+							</h4>
+						</div>
+						<!--/ Title element with bottom line symbol -->
+					</div>
+					<!--/ col-sm-12 col-md-12 -->
+
+					<div class="col-sm-12 col-md-12">
+						<!-- Text box -->
+						<div class="text_box">
+							
 						</div>
 						<!--/ Text box -->
 					</div>
